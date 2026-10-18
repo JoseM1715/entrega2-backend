@@ -1,0 +1,18 @@
+# Secretos
+.env
+secret_config.py
+
+# Entorno y caché
+.venv/
+.env/
+__pycache__/
+.buildozer/
+.pytest_cache/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+# Pruebas y cobertura
+.coverage
+test-results/
